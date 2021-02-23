@@ -12,14 +12,14 @@ import { createStackNavigator } from '@react-navigation/stack';
 // @Components!!
 import HomeScreen from './src/components/HomeScreen/Index';
 import StackNav from './src/components/StackNavigator/Index'
-
+ 
 import {
   SafeAreaView,
   StyleSheet,
   ScrollView,
   View,
   Text,
-  StatusBar,
+  StatusBar, 
 } from 'react-native';
 
 import {

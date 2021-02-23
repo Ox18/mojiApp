@@ -34,5 +34,4 @@ const searchByName = async (name) => {
   return result;
 };
 
-
 export default searchByName;

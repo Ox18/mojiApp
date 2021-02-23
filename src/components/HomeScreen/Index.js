@@ -4,7 +4,7 @@ import {
   TextInput,
   TouchableOpacity,
   Text,
-  Alert,
+  Alert, 
   StatusBar,
   StyleSheet,
   Image,

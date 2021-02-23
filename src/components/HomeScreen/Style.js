@@ -3,7 +3,7 @@ import {
 } from 'react-native';
 
 const style = {
-  
+   
   buttonSearch: {
     marginRight: 40,
     marginLeft: 40,
